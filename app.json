@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "FoodFinder",
+    "slug": "FoodFinder",
+    "version": "1.0.9",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "sdkVersion": "38.0.0",
+    "privacy": "public",
+    "facebookAppId": "693872518005462",
+    "facebookDisplayName": "FoodFinder",
+    "facebookScheme": "fb693872518005462",
+    "android": {
+      "package": "com.foodfinder.webapp",
+      "versionCode": 1,
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyCBlhLv2IVDmYmS00-jeuzV74fNSmNcoOM" }   
+     }    
+    }
+    
+  }
+}
+
+
